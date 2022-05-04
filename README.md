@@ -1,4 +1,4 @@
-# Auto-Coloring-of-B-W-images
+# Auto-Coloring-of-B/W-images
 
 In general, colouring a grayscale image is a straightforward process for the human mind; we learn to fill in the mission colours in colouring books from an early age by recalling that the grass is green, the sky is blue, and white clouds are there, or that an apple might be red or green. With the introduction of deep Convolutional neural networks, the challenge has gotten a lot of attention as a representative issue for a thorough visual comprehension of artificial intelligence, akin to what many people previously thought object recognition was.
 
